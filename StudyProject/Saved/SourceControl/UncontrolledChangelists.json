@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Maps/Field.umap",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Blueprints/BP_MyGameModeBase.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Blueprints/BP_MyCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Blueprints/BP_MyPlayerController.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Input/IMC_Character.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Input/IA_Look.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Input/IA_Move.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/AM_Work.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/AM_Woodchopping.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/AM_Watering.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/AM_PutDown.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/AM_Mining.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/AM_Building.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/ABP_Villager.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Animations/ABP_HAir.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Meshes/SKM_Villager.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Characters/Meshes/SK_Villager.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Input/IMC_Move.uasset",
+				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/BP_MyPlayerController.uasset"
+			]
+		}
+	]
+}

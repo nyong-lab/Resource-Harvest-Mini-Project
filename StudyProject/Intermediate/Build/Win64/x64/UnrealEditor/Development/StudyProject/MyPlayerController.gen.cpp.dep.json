@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\myplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\studyproject\\intermediate\\build\\win64\\x64\\studyprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\studyproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\studyproject\\definitions.studyproject.h",
+            "c:\\users\\user\\documents\\unreal projects\\studyproject\\source\\studyproject\\myplayercontroller.h",
+            "c:\\users\\user\\documents\\unreal projects\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\myplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
