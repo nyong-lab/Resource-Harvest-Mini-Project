@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJv2ONSLdzCcwXPDUye7MqpRcKXkjK2LhASMY3RpYQjiPq4CGodw6WVIVJOqeUFZmr1x1KdvIYLe0Kju8Y6gBg==",
+  "dgSpecHash": "71sgLO8N/lt34J+2QJ8ok7hw+N05ffcq2/Z3UsjGcHNPuX09xC4enWBpw690kXT0fl+pyHHwL0h2W6fIvSvQUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\Unreal Projects\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

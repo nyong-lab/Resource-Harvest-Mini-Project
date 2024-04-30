@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\user\\documents\\unreal projects\\studyproject\\source\\studyproject\\mycharacter.cpp",
+        "Source": "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\source\\studyproject\\mycharacter.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\user\\documents\\unreal projects\\studyproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\studyproject\\definitions.studyproject.h",
-            "c:\\users\\user\\documents\\unreal projects\\studyproject\\intermediate\\build\\win64\\x64\\studyprojecteditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
-            "c:\\users\\user\\documents\\unreal projects\\studyproject\\source\\studyproject\\mycharacter.h",
+            "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\studyproject\\definitions.studyproject.h",
+            "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\x64\\studyprojecteditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
+            "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\source\\studyproject\\mycharacter.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -611,7 +611,7 @@
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
-            "c:\\users\\user\\documents\\unreal projects\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\mycharacter.generated.h",
+            "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\mycharacter.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\primitivecomponent.h",

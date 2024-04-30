@@ -1,1 +1,1 @@
-#include "C:/Users/user/Documents/Unreal Projects/StudyProject/Source/StudyProject/MyCharacter.h"
+#include "C:/Users/user/Documents/GitHub/Resource-Harvest-Mini-Project/StudyProject/Source/StudyProject/MyCharacter.h"

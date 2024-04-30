@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudyProjectModuleRules
-build_property.ProjectDir = C:\Users\user\Documents\Unreal Projects\StudyProject\Intermediate\Build\BuildRulesProjects\StudyProjectModuleRules\
+build_property.ProjectDir = C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Intermediate\Build\BuildRulesProjects\StudyProjectModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

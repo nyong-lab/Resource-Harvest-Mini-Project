@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\Unreal Projects\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1013,14 +1013,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Documents\\Unreal Projects\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\Unreal Projects\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
         "projectName": "StudyProjectModuleRules",
-        "projectPath": "C:\\Users\\user\\Documents\\Unreal Projects\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\Unreal Projects\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

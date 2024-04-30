@@ -1,8 +1,8 @@
-"C:\Users\user\Documents\Unreal Projects\StudyProject\Source\StudyProject\MyCharacter.cpp"
-/FI"C:\Users\user\Documents\Unreal Projects\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\Definitions.StudyProject.h"
-/Fo"C:\Users\user\Documents\Unreal Projects\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\SingleFile\MyCharacter.cpp.obj"
-/sourceDependencies "C:\Users\user\Documents\Unreal Projects\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\SingleFile\MyCharacter.cpp.dep.json"
-@"C:\Users\user\Documents\Unreal Projects\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\StudyProject.Shared.rsp"
+"C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Source\StudyProject\MyCharacter.cpp"
+/FI"C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\Definitions.StudyProject.h"
+/Fo"C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\SingleFile\MyCharacter.cpp.obj"
+/sourceDependencies "C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\SingleFile\MyCharacter.cpp.dep.json"
+@"C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StudyProject\StudyProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

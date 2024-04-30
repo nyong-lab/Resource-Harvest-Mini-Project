@@ -30,6 +30,12 @@
     <Filter Include="Source\StudyProject">
       <UniqueIdentifier>{101E36A3-CF86-389F-8577-37F25C2E806B}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\StudyProject\MyAnimInstance.cpp">
+      <Filter>Source\StudyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StudyProject\MyAnimInstance.h">
+      <Filter>Source\StudyProject</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\StudyProject\MyCharacter.cpp">
       <Filter>Source\StudyProject</Filter>
     </ClCompile>

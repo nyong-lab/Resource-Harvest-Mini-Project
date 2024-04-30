@@ -1,0 +1,1 @@
+#include "C:/Users/user/Documents/GitHub/Resource-Harvest-Mini-Project/StudyProject/Source/StudyProject/MyAnimInstance.h"
