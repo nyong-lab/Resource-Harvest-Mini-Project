@@ -8042,19 +8042,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\o_o___u_u\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\o_o___u_u\\Documents\\Unreal Projects\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
       "projectName": "StudyProjectModuleRules",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\obj\\",
+      "projectPath": "C:\\Users\\o_o___u_u\\Documents\\Unreal Projects\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\StudyProjectModuleRules.csproj",
+      "packagesPath": "C:\\Users\\o_o___u_u\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\o_o___u_u\\Documents\\Unreal Projects\\Resource-Harvest-Mini-Project\\StudyProject\\Intermediate\\Build\\BuildRulesProjects\\StudyProjectModuleRules\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\o_o___u_u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

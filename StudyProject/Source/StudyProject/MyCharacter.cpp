@@ -71,6 +71,11 @@ void AMyCharacter::Move(const FInputActionValue& Value)
 	const FVector ForwardVector = UKismetMathLibrary::GetForwardVector(ForwardRotation);
 	const FVector RightVector = UKismetMathLibrary::GetRightVector(ForwardRotation);
 
+	MeshRotationDegree = FMath::RadiansToDegrees(FMath::Atan2(-Data.Y, Data.X));
+	FRotator CharacterRotation(0, GetMesh()->GetRelativeRotation().Yaw, 0);
+	FRotator MeshRotation = FMath::RInterpTo(CharacterRotation, FRotator(0, MeshRotationDegree, 0), GetWorld()->GetDeltaSeconds(), 30);
+	GetMesh()->SetRelativeRotation(MeshRotation);
+
 	AddMovementInput(ForwardVector, Data.Y);
 	AddMovementInput(RightVector, Data.X);
 }

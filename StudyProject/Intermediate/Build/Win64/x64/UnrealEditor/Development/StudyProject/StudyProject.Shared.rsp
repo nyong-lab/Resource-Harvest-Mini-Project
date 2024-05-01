@@ -256,8 +256,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Intermediate\Build\Win64\UnrealEditor\Inc\StudyProject\UHT"
-/I "C:\Users\user\Documents\GitHub\Resource-Harvest-Mini-Project\StudyProject\Source"
+/I "C:\Users\o_o___u_u\Documents\Unreal Projects\Resource-Harvest-Mini-Project\StudyProject\Intermediate\Build\Win64\UnrealEditor\Inc\StudyProject\UHT"
+/I "C:\Users\o_o___u_u\Documents\Unreal Projects\Resource-Harvest-Mini-Project\StudyProject\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0

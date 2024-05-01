@@ -47,6 +47,10 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_LookAction_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_LookAction;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MeshRotationDegree_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_MeshRotationDegree;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -93,11 +97,19 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMyCharacter_Statics::NewProp_LookAction = { "LookAction", nullptr, (EPropertyFlags)0x0010000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMyCharacter, LookAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMyCharacter_Statics::NewProp_LookAction_MetaData), Z_Construct_UClass_AMyCharacter_Statics::NewProp_LookAction_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyCharacter_Statics::NewProp_MeshRotationDegree_MetaData[] = {
+		{ "Category", "MyCharacter" },
+		{ "ModuleRelativePath", "MyCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyCharacter_Statics::NewProp_MeshRotationDegree = { "MeshRotationDegree", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMyCharacter, MeshRotationDegree), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMyCharacter_Statics::NewProp_MeshRotationDegree_MetaData), Z_Construct_UClass_AMyCharacter_Statics::NewProp_MeshRotationDegree_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMyCharacter_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_Camera,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_SpringArm,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_MoveAction,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_LookAction,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyCharacter_Statics::NewProp_MeshRotationDegree,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMyCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMyCharacter>::IsAbstract,
@@ -132,15 +144,15 @@ void EmptyLinkFunctionForGeneratedCodeMyCharacter() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AMyCharacter);
 	AMyCharacter::~AMyCharacter() {}
-	struct Z_CompiledInDeferFile_FID_Users_user_Documents_GitHub_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_o_o___u_u_Documents_Unreal_Projects_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_user_Documents_GitHub_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AMyCharacter, AMyCharacter::StaticClass, TEXT("AMyCharacter"), &Z_Registration_Info_UClass_AMyCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyCharacter), 1572468016U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_o_o___u_u_Documents_Unreal_Projects_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AMyCharacter, AMyCharacter::StaticClass, TEXT("AMyCharacter"), &Z_Registration_Info_UClass_AMyCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyCharacter), 473591303U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_user_Documents_GitHub_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_3313291331(TEXT("/Script/StudyProject"),
-		Z_CompiledInDeferFile_FID_Users_user_Documents_GitHub_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_user_Documents_GitHub_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_o_o___u_u_Documents_Unreal_Projects_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_3690473765(TEXT("/Script/StudyProject"),
+		Z_CompiledInDeferFile_FID_Users_o_o___u_u_Documents_Unreal_Projects_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_o_o___u_u_Documents_Unreal_Projects_Resource_Harvest_Mini_Project_StudyProject_Source_StudyProject_MyCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\mygamemodebase.gen.cpp",
+        "Source": "c:\\users\\o_o___u_u\\documents\\unreal projects\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\mygamemodebase.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\x64\\studyprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\o_o___u_u\\documents\\unreal projects\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\x64\\studyprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\studyproject\\definitions.studyproject.h",
-            "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\source\\studyproject\\mygamemodebase.h",
+            "c:\\users\\o_o___u_u\\documents\\unreal projects\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\studyproject\\definitions.studyproject.h",
+            "c:\\users\\o_o___u_u\\documents\\unreal projects\\resource-harvest-mini-project\\studyproject\\source\\studyproject\\mygamemodebase.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "c:\\users\\user\\documents\\github\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\mygamemodebase.generated.h"
+            "c:\\users\\o_o___u_u\\documents\\unreal projects\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\mygamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

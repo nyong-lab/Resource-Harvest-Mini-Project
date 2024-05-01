@@ -41,6 +41,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category="Input")
 	class UInputAction* LookAction;
 
+	UPROPERTY(VisibleAnywhere)
+	float MeshRotationDegree;
+
 	void Look(const FInputActionValue& Value);
 
 	void Move(const FInputActionValue& Value);
