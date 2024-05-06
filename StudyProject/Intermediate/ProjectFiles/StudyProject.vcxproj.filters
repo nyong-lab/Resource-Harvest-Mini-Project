@@ -63,5 +63,11 @@
     <ClInclude Include="..\..\Source\StudyProject\StudyProject.h">
       <Filter>Source\StudyProject</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\StudyProject\Tool.cpp">
+      <Filter>Source\StudyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StudyProject\Tool.h">
+      <Filter>Source\StudyProject</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

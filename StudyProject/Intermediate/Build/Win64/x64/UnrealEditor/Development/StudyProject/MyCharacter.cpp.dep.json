@@ -36,7 +36,9 @@
             "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputcomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "c:\\users\\o_o___u_u\\documents\\unreal projects\\resource-harvest-mini-project\\studyproject\\source\\studyproject\\tool.h",
+            "c:\\users\\o_o___u_u\\documents\\unreal projects\\resource-harvest-mini-project\\studyproject\\intermediate\\build\\win64\\unrealeditor\\inc\\studyproject\\uht\\tool.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -7,6 +7,7 @@
 #include "GameFrameWork/SpringArmComponent.h"
 #include "EnhancedInputComponent.h"
 #include "Kismet/KismetMathLibrary.h"
+#include "Tool.h"
 
 // Sets default values
 AMyCharacter::AMyCharacter()
@@ -50,6 +51,7 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 	{
 		UIC->BindAction(LookAction, ETriggerEvent::Triggered, this, &AMyCharacter::Look);
 		UIC->BindAction(MoveAction, ETriggerEvent::Triggered, this, &AMyCharacter::Move);
+		UIC->BindAction(EquipAction, ETriggerEvent::Triggered, this, &AMyCharacter::Equip);
 	}
 }
 
@@ -71,12 +73,43 @@ void AMyCharacter::Move(const FInputActionValue& Value)
 	const FVector ForwardVector = UKismetMathLibrary::GetForwardVector(ForwardRotation);
 	const FVector RightVector = UKismetMathLibrary::GetRightVector(ForwardRotation);
 
-	MeshRotationDegree = FMath::RadiansToDegrees(FMath::Atan2(-Data.Y, Data.X));
+	float MeshRotationDegree = FMath::RadiansToDegrees(FMath::Atan2(-Data.Y, Data.X));
 	FRotator CharacterRotation(0, GetMesh()->GetRelativeRotation().Yaw, 0);
-	FRotator MeshRotation = FMath::RInterpTo(CharacterRotation, FRotator(0, MeshRotationDegree, 0), GetWorld()->GetDeltaSeconds(), 30);
+	FRotator MeshRotation = FMath::RInterpTo(CharacterRotation, FRotator(0, MeshRotationDegree, 0), GetWorld()->GetDeltaSeconds(), 10);
 	GetMesh()->SetRelativeRotation(MeshRotation);
 
 	AddMovementInput(ForwardVector, Data.Y);
 	AddMovementInput(RightVector, Data.X);
+}
+
+void AMyCharacter::Equip(const FInputActionValue& Value)
+{
+	const FVector Start = GetActorLocation();
+	const FVector End = Start + GetActorForwardVector() * SearchDistance;
+	DrawDebugLine(GetWorld(), Start, End, FColor::Green, false, 10);
+
+	FCollisionShape Sphere = FCollisionShape::MakeSphere(50.f);
+	FHitResult HitResult;
+	bool HasHit = GetWorld()->SweepSingleByChannel(
+		HitResult,
+		Start,
+		End,
+		FQuat::Identity,
+		ECC_GameTraceChannel1,
+		Sphere
+	);
+
+	if (!HasHit) return;
+
+	ATool* Tool = Cast<ATool>(HitResult.GetActor());
+	if(!Tool) return;
+	
+	Tool->EquipInitialize();
+	FName Socket(TEXT("hand_rSocket"));
+	HitResult.GetActor()->AttachToComponent(
+		GetMesh(),
+		FAttachmentTransformRules::SnapToTargetNotIncludingScale,
+		Socket
+	);
 }
 

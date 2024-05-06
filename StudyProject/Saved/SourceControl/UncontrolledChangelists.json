@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/o_o___u_u/Documents/Unreal Projects/Resource-Harvest-Mini-Project/StudyProject/Content/Characters/Meshes/SK_Villager.uasset",
+				"C:/Users/o_o___u_u/Documents/Unreal Projects/Resource-Harvest-Mini-Project/StudyProject/Content/Blueprints/BP_PickAxe.uasset",
+				"C:/Users/o_o___u_u/Documents/Unreal Projects/Resource-Harvest-Mini-Project/StudyProject/Content/Maps/Field.umap",
+				"C:/Users/o_o___u_u/Documents/Unreal Projects/Resource-Harvest-Mini-Project/StudyProject/Content/Blueprints/BP_MyCharacter.uasset",
+				"C:/Users/o_o___u_u/Documents/Unreal Projects/Resource-Harvest-Mini-Project/StudyProject/Content/Input/IA_.uasset",
+				"C:/Users/o_o___u_u/Documents/Unreal Projects/Resource-Harvest-Mini-Project/StudyProject/Content/Input/IA_Equip.uasset",
+				"C:/Users/o_o___u_u/Documents/Unreal Projects/Resource-Harvest-Mini-Project/StudyProject/Content/Input/IMC_Character.uasset",
 				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Maps/Field.umap",
 				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Blueprints/BP_MyGameModeBase.uasset",
 				"C:/Users/user/Documents/Unreal Projects/StudyProject/Content/Blueprints/BP_MyCharacter.uasset",
